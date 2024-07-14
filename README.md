@@ -59,6 +59,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Manish Parkar - [contact@manishparkar.com](mailto:contact@manishparkar.com)
 
+
+![image_original](https://github.com/user-attachments/assets/8078a747-d310-4216-a3ab-b388f693d3d1)
+![image_original](https://github.com/user-attachments/assets/e7220673-9d0d-443a-b1c7-98ab7bff9434)
+
 Project Link: [https://github.com/ManishParkar/Innovate_Tech_Solutions](https://github.com/ManishParkar/Innovate_Tech_Solutions)
 
 ## Acknowledgments
